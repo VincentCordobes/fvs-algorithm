@@ -194,8 +194,8 @@ Une liste de points qui sont les voisins de p
 ### Exemples
 Voici le résultat (à droite) de l'algorithme appliqué sur un graphe (à gauche).
 
-<img src="https://cloud.githubusercontent.com/assets/7091110/20041372/3688a240-a468-11e6-8717-d1214ef22f7f.png" width="300">
 <img src="https://cloud.githubusercontent.com/assets/7091110/20041373/369c2662-a468-11e6-8b0e-1fdf18c0bea1.png" width="300">
+<img src="https://cloud.githubusercontent.com/assets/7091110/20041372/3688a240-a468-11e6-8717-d1214ef22f7f.png" width="300">
 
 
 ### Historique de développement
