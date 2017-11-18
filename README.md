@@ -3,9 +3,9 @@
 ### De quoi s'agit-il ?
 Un 'feedback vertex set' (FVS) d'un graphe est un sous ensemble de sommets qui contient au moins un sommet de chaque cycle dans le graphe. Le but est donc de trouver un 'feedback vertex set' de taille minimum. Nous travaillons sur un graphe non-orienté. Cette page présente une implémentation de l' algorithme Bafna-Berman-Fujito. Le langage Java est utilisé.
 
-<img src="https://www.dropbox.com/s/7a87jm0ppd96zsv/notvalidfvs.svg?dl=1" width="280">
-<img src="https://www.dropbox.com/s/0sj4ccks7xfmba2/validfvs2.svg?dl=1" width="280">
-<img src="https://www.dropbox.com/s/xcvi0lwwizoi98m/validfvs.svg?dl=1" width="280">
+<img src="./notvalidfvs.svg" width="280">
+<img src="./validfvs2.svg" width="280">
+<img src="./validfvs.svg" width="280">
 
 
 ### Execution
